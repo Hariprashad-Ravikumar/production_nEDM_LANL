@@ -1,0 +1,286 @@
+Setting CUDA device
+Setting CUDA device
+Setting CUDA device
+Setting CUDA device
+Setting CUDA device
+Setting CUDA device
+Setting CUDA device
+Setting CUDA device
+Setting CUDA device
+Setting CUDA device
+Setting CUDA device
+Setting CUDA device
+Setting CUDA device
+Setting CUDA device
+Setting CUDA device
+Setting CUDA device
+Setting CUDA device
+Setting CUDA device
+Setting CUDA device
+Setting CUDA device
+Setting CUDA device
+Setting CUDA device
+Setting CUDA device
+Setting CUDA device
+Setting CUDA device
+Setting CUDA device
+Setting CUDA device
+Setting CUDA device
+GPU properties
+  Compute capability (major,minor)    : 8,0
+  Shared memory                       : 48 KB
+  Max grid  (x,y,z)                   : (1073741824,32768,32768)
+  Max block (x,y,z)                   : (1024,1024,64)
+  GPU memory (free,total)             : 39902/40326 MB
+Initializing QMP part
+GPU properties
+  Compute capability (major,minor)    : 8,0
+  Shared memory                       : 48 KB
+  Max grid  (x,y,z)                   : (1073741824,32768,32768)
+  Max block (x,y,z)                   : (1024,1024,64)
+  GPU memory (free,total)             : 39902/40326 MB
+Initializing QMP part
+GPU properties
+  Compute capability (major,minor)    : 8,0
+  Shared memory                       : 48 KB
+  Max grid  (x,y,z)                   : (1073741824,32768,32768)
+  Max block (x,y,z)                   : (1024,1024,64)
+  GPU memory (free,total)             : 39902/40326 MB
+Initializing QMP part
+GPU properties
+  Compute capability (major,minor)    : 8,0
+  Shared memory                       : 48 KB
+  Max grid  (x,y,z)                   : (1073741824,32768,32768)
+  Max block (x,y,z)                   : (1024,1024,64)
+  GPU memory (free,total)             : 39902/40326 MB
+Initializing QMP part
+GPU properties
+  Compute capability (major,minor)    : 8,0
+  Shared memory                       : 48 KB
+  Max grid  (x,y,z)                   : (1073741824,32768,32768)
+  Max block (x,y,z)                   : (1024,1024,64)
+  GPU memory (free,total)             : 80613/81037 MB
+Initializing QMP part
+GPU properties
+  Compute capability (major,minor)    : 8,0
+  Shared memory                       : 48 KB
+  Max grid  (x,y,z)                   : (1073741824,32768,32768)
+  Max block (x,y,z)                   : (1024,1024,64)
+  GPU memory (free,total)             : 80613/81037 MB
+Initializing QMP part
+GPU properties
+  Compute capability (major,minor)    : 8,0
+  Shared memory                       : 48 KB
+  Max grid  (x,y,z)                   : (1073741824,32768,32768)
+  Max block (x,y,z)                   : (1024,1024,64)
+  GPU memory (free,total)             : 80613/81037 MB
+Initializing QMP part
+GPU properties
+  Compute capability (major,minor)    : 8,0
+  Shared memory                       : 48 KB
+  Max grid  (x,y,z)                   : (1073741824,32768,32768)
+  Max block (x,y,z)                   : (1024,1024,64)
+  GPU memory (free,total)             : 80613/81037 MB
+Initializing QMP part
+GPU properties
+  Compute capability (major,minor)    : 8,0
+  Shared memory                       : 48 KB
+  Max grid  (x,y,z)                   : (1073741824,32768,32768)
+  Max block (x,y,z)                   : (1024,1024,64)
+  GPU memory (free,total)             : 80613/81037 MB
+Initializing QMP part
+GPU properties
+  Compute capability (major,minor)    : 8,0
+  Shared memory                       : 48 KB
+  Max grid  (x,y,z)                   : (1073741824,32768,32768)
+  Max block (x,y,z)                   : (1024,1024,64)
+  GPU memory (free,total)             : 80613/81037 MB
+Initializing QMP part
+GPU properties
+  Compute capability (major,minor)    : 8,0
+  Shared memory                       : 48 KB
+  Max grid  (x,y,z)                   : (1073741824,32768,32768)
+  Max block (x,y,z)                   : (1024,1024,64)
+  GPU memory (free,total)             : 80613/81037 MB
+Initializing QMP part
+GPU properties
+  Compute capability (major,minor)    : 8,0
+  Shared memory                       : 48 KB
+  Max grid  (x,y,z)                   : (1073741824,32768,32768)
+  Max block (x,y,z)                   : (1024,1024,64)
+  GPU memory (free,total)             : 80613/81037 MB
+Initializing QMP part
+Setting CUDA device
+Setting CUDA device
+Setting CUDA device
+Setting CUDA device
+GPU properties
+  Compute capability (major,minor)    : 8,0
+  Shared memory                       : 48 KB
+  Max grid  (x,y,z)                   : (1073741824,32768,32768)
+  Max block (x,y,z)                   : (1024,1024,64)
+  GPU memory (free,total)             : 39902/40326 MB
+Initializing QMP part
+GPU properties
+  Compute capability (major,minor)    : 8,0
+  Shared memory                       : 48 KB
+  Max grid  (x,y,z)                   : (1073741824,32768,32768)
+  Max block (x,y,z)                   : (1024,1024,64)
+  GPU memory (free,total)             : 39902/40326 MB
+Initializing QMP part
+GPU properties
+  Compute capability (major,minor)    : 8,0
+  Shared memory                       : 48 KB
+  Max grid  (x,y,z)                   : (1073741824,32768,32768)
+  Max block (x,y,z)                   : (1024,1024,64)
+  GPU memory (free,total)             : 39902/40326 MB
+Initializing QMP part
+GPU properties
+  Compute capability (major,minor)    : 8,0
+  Shared memory                       : 48 KB
+  Max grid  (x,y,z)                   : (1073741824,32768,32768)
+  Max block (x,y,z)                   : (1024,1024,64)
+  GPU memory (free,total)             : 39902/40326 MB
+Initializing QMP part
+GPU properties
+  Compute capability (major,minor)    : 8,0
+  Shared memory                       : 48 KB
+  Max grid  (x,y,z)                   : (1073741824,32768,32768)
+  Max block (x,y,z)                   : (1024,1024,64)
+  GPU memory (free,total)             : 80613/81037 MB
+Initializing QMP part
+GPU properties
+  Compute capability (major,minor)    : 8,0
+  Shared memory                       : 48 KB
+  Max grid  (x,y,z)                   : (1073741824,32768,32768)
+  Max block (x,y,z)                   : (1024,1024,64)
+  GPU memory (free,total)             : 80613/81037 MB
+Initializing QMP part
+GPU properties
+  Compute capability (major,minor)    : 8,0
+  Shared memory                       : 48 KB
+  Max grid  (x,y,z)                   : (1073741824,32768,32768)
+  Max block (x,y,z)                   : (1024,1024,64)
+  GPU memory (free,total)             : 80613/81037 MB
+Initializing QMP part
+GPU properties
+  Compute capability (major,minor)    : 8,0
+  Shared memory                       : 48 KB
+  Max grid  (x,y,z)                   : (1073741824,32768,32768)
+  Max block (x,y,z)                   : (1024,1024,64)
+  GPU memory (free,total)             : 80613/81037 MB
+Initializing QMP part
+GPU properties
+  Compute capability (major,minor)    : 8,0
+  Shared memory                       : 48 KB
+  Max grid  (x,y,z)                   : (1073741824,32768,32768)
+  Max block (x,y,z)                   : (1024,1024,64)
+  GPU memory (free,total)             : 80613/81037 MB
+Initializing QMP part
+GPU properties
+  Compute capability (major,minor)    : 8,0
+  Shared memory                       : 48 KB
+  Max grid  (x,y,z)                   : (1073741824,32768,32768)
+  Max block (x,y,z)                   : (1024,1024,64)
+  GPU memory (free,total)             : 80613/81037 MB
+Initializing QMP part
+GPU properties
+  Compute capability (major,minor)    : 8,0
+  Shared memory                       : 48 KB
+  Max grid  (x,y,z)                   : (1073741824,32768,32768)
+  Max block (x,y,z)                   : (1024,1024,64)
+  GPU memory (free,total)             : 80613/81037 MB
+Initializing QMP part
+GPU properties
+  Compute capability (major,minor)    : 8,0
+  Shared memory                       : 48 KB
+  Max grid  (x,y,z)                   : (1073741824,32768,32768)
+  Max block (x,y,z)                   : (1024,1024,64)
+  GPU memory (free,total)             : 80613/81037 MB
+Initializing QMP part
+GPU properties
+  Compute capability (major,minor)    : 8,0
+  Shared memory                       : 48 KB
+  Max grid  (x,y,z)                   : (1073741824,32768,32768)
+  Max block (x,y,z)                   : (1024,1024,64)
+  GPU memory (free,total)             : 80613/81037 MB
+Initializing QMP part
+GPU properties
+  Compute capability (major,minor)    : 8,0
+  Shared memory                       : 48 KB
+  Max grid  (x,y,z)                   : (1073741824,32768,32768)
+  Max block (x,y,z)                   : (1024,1024,64)
+  GPU memory (free,total)             : 80613/81037 MB
+Initializing QMP part
+GPU properties
+  Compute capability (major,minor)    : 8,0
+  Shared memory                       : 48 KB
+  Max grid  (x,y,z)                   : (1073741824,32768,32768)
+  Max block (x,y,z)                   : (1024,1024,64)
+  GPU memory (free,total)             : 80613/81037 MB
+Initializing QMP part
+GPU properties
+  Compute capability (major,minor)    : 8,0
+  Shared memory                       : 48 KB
+  Max grid  (x,y,z)                   : (1073741824,32768,32768)
+  Max block (x,y,z)                   : (1024,1024,64)
+  GPU memory (free,total)             : 80613/81037 MB
+Initializing QMP part
+GPU properties
+  Compute capability (major,minor)    : 8,0
+  Shared memory                       : 48 KB
+  Max grid  (x,y,z)                   : (1073741824,32768,32768)
+  Max block (x,y,z)                   : (1024,1024,64)
+  GPU memory (free,total)             : 80613/81037 MB
+Initializing QMP part
+GPU properties
+  Compute capability (major,minor)    : 8,0
+  Shared memory                       : 48 KB
+  Max grid  (x,y,z)                   : (1073741824,32768,32768)
+  Max block (x,y,z)                   : (1024,1024,64)
+  GPU memory (free,total)             : 80613/81037 MB
+Initializing QMP part
+GPU properties
+  Compute capability (major,minor)    : 8,0
+  Shared memory                       : 48 KB
+  Max grid  (x,y,z)                   : (1073741824,32768,32768)
+  Max block (x,y,z)                   : (1024,1024,64)
+  GPU memory (free,total)             : 80613/81037 MB
+Initializing QMP part
+GPU properties
+  Compute capability (major,minor)    : 8,0
+  Shared memory                       : 48 KB
+  Max grid  (x,y,z)                   : (1073741824,32768,32768)
+  Max block (x,y,z)                   : (1024,1024,64)
+  GPU memory (free,total)             : 80613/81037 MB
+Initializing QMP part
+Initialize done
+Initializing QUDA device (using CUDA device no. 0)
+QUDA 1.1.0 (git 1.1.0-bb6aac0b5-dirty-sm_80)
+CUDA Driver version = 12040
+CUDA Runtime version = 11070
+Graphic driver version = 550.127.08
+Found device 0: NVIDIA A100-SXM4-40GB
+Found device 1: NVIDIA A100-SXM4-40GB
+Found device 2: NVIDIA A100-SXM4-40GB
+Found device 3: NVIDIA A100-SXM4-40GB
+Using device 0: NVIDIA A100-SXM4-40GB
+WARNING: Data reordering done on GPU (set with QUDA_REORDER_LOCATION=GPU/CPU)
+Initializing QDP-JIT GPUs
+LLVM initialization
+  Target machine CPU                  : sm_80
+  Target triple                       : nvptx64-nvidia-cuda
+Initializing QUDA memory
+Peer-to-peer enabled for rank   0 (gpu=0) with neighbor   1 (gpu=1) dir=0, dim=1, access rank = (  0)
+Peer-to-peer enabled for rank   0 (gpu=0) with neighbor   2 (gpu=2) dir=0, dim=2, access rank = (  0)
+Peer-to-peer enabled for rank   0 (gpu=0) with neighbor   1 (gpu=1) dir=1, dim=1, access rank = (  0)
+Peer-to-peer enabled for rank   0 (gpu=0) with neighbor   2 (gpu=2) dir=1, dim=2, access rank = (  0)
+WARNING: Environment variable QUDA_RESOURCE_PATH is not set.
+WARNING: Caching of tuned parameters will be disabled.
+WARNING: Environment variable QUDA_RESOURCE_PATH is not set.
+WARNING: Caching of tuned parameters will be disabled.
+WARNING: Using device memory pool allocator
+WARNING: Using pinned memory pool allocator
+cublasCreated successfully
+Linkage = bool Chroma::MapObjectDiskEnv::registerAll(): registering map obj key colorvec
+0
